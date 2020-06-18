@@ -1,1 +1,1 @@
-# omochiblog.github.io
+# omochiblog
