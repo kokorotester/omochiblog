@@ -1,3 +1,39 @@
-.top-wrapper h1 {
-  color: bisque;
+body {
+  background-color: #fafafa;
+}
+
+.content {
+  width: 600px;
+  margin: 10px auto;
+  padding: 30px;
+  border: 1px solid #d1d1d1;
+}
+
+h1 {
+  font-size: 24px;
+  margin: 0;
+}
+
+input {
+  border-top: none;
+  border-right: none;
+  border-left: none;
+  border-bottom: 1px solid #d1d1d1;
+  width: 100%;
+  font-size: 1.2em;
+  padding: 8px;
+  background-color: #fafafa;
+}
+
+button {
+  width: 100%;
+  padding: 15px;
+  color: white;
+  background-color: #2096f3;
+  border-radius: 3px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.4);
+}
+
+.control {
+  margin-bottom: 3em;
 }
